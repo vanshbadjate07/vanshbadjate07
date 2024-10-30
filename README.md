@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I’m Vansh Badjate</h1>
 
 <p align="center">
-  <img src="https://github.com/vanshbadjate07/private-files/blob/main/Banner.jpg" alt="Vansh Badjate's Image" width="600" />
+  <img src="https://github.com/vanshbadjate07/private-files/blob/main/Banner.jpg" alt="Vansh Badjate's Image" width="1200" />
 </p>
 
 ---

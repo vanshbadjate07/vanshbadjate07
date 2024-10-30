@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I’m Vansh Badjate</h1>
 
 <p align="center">
-  <img src="YOUR_IMAGE_URL" alt="Vansh Badjate's Image" width="400" />
+  <img src="https://github.com/vanshbadjate07/private-files/blob/main/Banner.jpg" alt="Vansh Badjate's Image" width="400" />
 </p>
 
 ---
@@ -62,7 +62,7 @@
 
 ### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbadjate&show_icons=true&theme=radical" alt="Vansh’s GitHub stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=vanshbadjate07&show_icons=true&theme=radical" alt="Vansh’s GitHub stats"/>
 </p>
 
 ---

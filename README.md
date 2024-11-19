@@ -44,6 +44,11 @@
 
 ---
 
+![Profile Views](https://komarev.com/ghpvc/?username=vanshbadjate07&color=blue&style=flat-square)
+
+---
+
+
 ### 💻 Languages and Tools
 <p align="center">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>

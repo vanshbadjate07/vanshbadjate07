@@ -76,9 +76,7 @@
 
 ### 📊 Top Languages On Repository
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshbadjate07&show_icons=true&theme=radical" alt="Vansh’s GitHub stats"/>
-    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshbadjate07&theme=radical" height="180em" alt="Most Repo Languages"/>
-
+    <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=vanshbadjate07&theme=radical" alt="Most Repo Languages"/>
 </p>
 
 

@@ -20,6 +20,8 @@
 - **Would You Rather Game** 🎮: A fun game built with Python to track choices.
 - **Weather App** ☀️: Displays real-time weather updates in Celsius and Fahrenheit using Python.
 - **Website Clones** 🛠️: Built clones of popular websites like Netflix, Amazon, Zomato, and Microsoft.
+- **Smart Slurry Irrigation System 🌾**: An IoT-based solution that automates slurry distribution using ESP32, soil sensors, and Firebase with a live dashboard.
+- **Real-Time Weather App 🌤️**: A web app that shows current weather, humidity, wind speed, and visibility for any location using WeatherAPI.
 
 ---
 

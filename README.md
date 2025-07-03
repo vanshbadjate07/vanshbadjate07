@@ -71,10 +71,10 @@
 
 <p align="center">
   <a href="https://leetcode.com/vanshbadjate">
-    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LeetCode-%2300CC66.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/>
   </a>
   <a href="https://www.hackerrank.com/badjatevansh1008">
-    <img src="https://img.shields.io/badge/HackerRank-Learning-success?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+    <img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </p>
 

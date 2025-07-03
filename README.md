@@ -15,8 +15,6 @@
 ---
 
 ### 🚀 Projects
-- **Currency Converter** 💱: A responsive web app for quick currency conversion.
-- **To-Do List Web App** ✅: A task management web app to organize daily activities.
 - **Would You Rather Game** 🎮: A fun game built with Python to track choices.
 - **Weather App** ☀️: Displays real-time weather updates in Celsius and Fahrenheit using Python.
 - **Website Clones** 🛠️: Built clones of popular websites like Netflix, Amazon, Zomato, and Microsoft.

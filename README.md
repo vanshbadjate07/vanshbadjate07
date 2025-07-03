@@ -67,6 +67,19 @@
 
 ---
 
+### 🧠 Practice Platforms
+
+<p align="center">
+  <a href="https://leetcode.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=LeetCode&logoColor=white"/>
+  </a>
+  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+    <img src="https://img.shields.io/badge/HackerRank-Learning-success?style=for-the-badge&logo=HackerRank&logoColor=white"/>
+  </a>
+</p>
+
+---
+
 ### 📊 LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/vanshbadjate?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats"/>

@@ -69,6 +69,13 @@
 
 ---
 
+### 📊 LeetCode Stats
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/vanshbadjate?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats"/>
+</p>
+
+---
+
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshbadjate07&show_icons=true&theme=radical" alt="Vansh’s GitHub stats"/>

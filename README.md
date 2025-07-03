@@ -10,7 +10,7 @@
 - 🎓 **B.Tech Student** - 3rd year AIML branch at Sanjivani University, Kopargaon
 - 💻 **Coding Enthusiast** - Passionate about building impactful projects
 - 🌱 **Currently Learning** - Data Science, Machine Learning, and participating in various challenges
-- 🎯 **Community Builder** - Vice President of AIML Department Student Association (ADSA)
+- 🎯 **Community Builder** - Vice President of AIML Department Student Association (ADSA) 2024-2025
 
 ---
 

@@ -87,22 +87,6 @@
 
 ---
 
-### 🏅 HackerRank Skill Badges
-
-<p align="center">
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Java-5★-F89820?style=for-the-badge&logo=java&logoColor=white" alt="Java Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/Python-4★-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Badge"/>
-  </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
-    <img src="https://img.shields.io/badge/SQL-3★-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL Badge"/>
-  </a>
-</p>
-
----
-
 ### 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=vanshbadjate07&show_icons=true&theme=radical" alt="Vansh’s GitHub stats"/>

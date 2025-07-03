@@ -70,10 +70,10 @@
 ### 🧠 Practice Platforms
 
 <p align="center">
-  <a href="https://leetcode.com/YOUR_USERNAME">
+  <a href="https://leetcode.com/vanshbadjate">
     <img src="https://img.shields.io/badge/LeetCode-Active-orange?style=for-the-badge&logo=LeetCode&logoColor=white"/>
   </a>
-  <a href="https://www.hackerrank.com/YOUR_USERNAME">
+  <a href="https://www.hackerrank.com/badjatevansh1008">
     <img src="https://img.shields.io/badge/HackerRank-Learning-success?style=for-the-badge&logo=HackerRank&logoColor=white"/>
   </a>
 </p>

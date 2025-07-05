@@ -93,7 +93,7 @@
 </p>
 
 <p align="center">
-  ![](https://github-readme-streak-stats.herokuapp.com/?user=vanshbadjate07&theme=dark&hide_border=false)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshbadjate07&theme=dark&hide_border=false" alt="Vansh’s GitHub stats"/>
 </p>
 
 

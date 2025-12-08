@@ -25,23 +25,18 @@ Aspiring AIML Engineer focused on Computer Vision, Intelligent Systems, and buil
 AI model that classifies dermoscopic images into AK, BCC, and SK, with GradCAM explainability.
 - Built simple UI for instant predictions, confidence scores, and heatmaps  
 - Tech: Python, PyTorch, Streamlit, OpenCV  
-- *(Repo link in your GitHub)*  
-:contentReference[oaicite:1]{index=1}
 
 ---
 
 ### **2. AgriPredict – Smart Crop Yield Forecasting**
 End to end ML system for yield prediction using soil, weather, and regional data.  
 Includes voice assistant, suitability checks, and real time weather integration.
-- Tech: Flask, Python, scikit-learn, Node.js, OpenWeatherMap API  
-:contentReference[oaicite:2]{index=2}
 
 ---
 
 ### **3. Real-Time Emotion Detection System**
 Detects face emotions from webcam input using CV + DL pipeline.  
 - Tech: OpenCV, TensorFlow/Keras, Haar Cascade, CNN  
-:contentReference[oaicite:3]{index=3}
 
 ---
 
@@ -49,14 +44,12 @@ Detects face emotions from webcam input using CV + DL pipeline.
 Automated slurry distribution with ESP32 and soil moisture sensors.  
 Includes real time dashboard and cloud sync with Firebase.
 - Tech: ESP32, Sensors, Firebase, HTML, CSS, JS  
-:contentReference[oaicite:4]{index=4}
 
 ---
 
 ### **5. Deepfake Detection System**
 Platform to identify manipulated videos using face extraction and ML-based analysis.
 - Tech: Python, PyTorch, MediaPipe, FastAPI, Streamlit  
-:contentReference[oaicite:5]{index=5}
 
 ---
 
@@ -65,7 +58,6 @@ Platform to identify manipulated videos using face extraction and ML-based analy
 - Selected for **SUNHACKS 2025** National Hackathon  
 - Attended **Hyperspectral Imaging Workshop** by National Chung Cheng University, Taiwan  
 - Former Sports Secretary, ACTS  
-:contentReference[oaicite:8]{index=8}
 
 ---
 

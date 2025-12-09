@@ -51,8 +51,22 @@ Includes real time dashboard and cloud sync with Firebase.
 Platform to identify manipulated videos using face extraction and ML-based analysis.
 - Tech: Python, PyTorch, MediaPipe, FastAPI, Streamlit  
 
----
+--- 
 
+### 🌐 Connect with Me 
+<p align="center"> 
+  <a href="https://www.instagram.com/vansh_badjate07/"> 
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/> 
+  </a> 
+  <a href="https://www.linkedin.com/in/vansh-badjate1008/"> 
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/> 
+  </a> 
+  <a href="https://github.com/vanshbadjate07"> 
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+  </a> 
+</p> 
+
+---
 ## 🏆 Achievements and Activities
 - Vice President, **AIML Department Student Association (ADSA)** 2024-2025  
 - Selected for **SUNHACKS 2025** National Hackathon  
@@ -61,11 +75,37 @@ Platform to identify manipulated videos using face extraction and ML-based analy
 
 ---
 
-## 🛠️ Tech Stack
+### 💻 Languages and Tools
 
-**Languages:** Python, Java, C++  
-**Web:** HTML, CSS, JavaScript  
-**ML Tools:** TensorFlow, Keras, PyTorch, OpenCV, Scikit Learn  
-**Data:** MySQL, MongoDB, Pandas, PySpark  
-**Platforms:** IBM Watsonx, Google Colab, VS Code, Git, GitHub, Power BI  
-**ML Deployment:** Flask, Streamlit, FastA
+<p align="center"> 
+<img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/> 
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++"/> 
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML"/> 
+<img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS"/> 
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/> 
+<img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" alt="Java"/> 
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/> 
+<img src="https://img.shields.io/badge/MySQL-005C6C?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/> 
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/> 
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/> 
+</p> 
+
+---
+
+### 🧠 Practice Platforms 
+<p align="center"> 
+<a href="https://leetcode.com/vanshbadjate"> 
+<img src="https://img.shields.io/badge/LeetCode-%2300CC66.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/> 
+</a> 
+<a href="https://www.hackerrank.com/badjatevansh1008"> 
+<img src="https://img.shields.io/badge/HackerRank-%232EC866.svg?&style=for-the-badge&logo=HackerRank&logoColor=white"/> 
+</a> 
+</p> 
+
+---
+
+### 📊 LeetCode Stats <p align="center"> 
+<img src="https://leetcard.jacoblin.cool/vanshbadjate?theme=dark&font=Baloo+Bhai&ext=contest" alt="LeetCode Stats"/> 
+</p> 
+
+---

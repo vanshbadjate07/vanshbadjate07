@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Vansh Badjate 👋</h1>
 
 <p align="center">
-  <img src="https://github.com/vanshbadjate07/Amazon-Clone/blob/main/amazon.com/Banner.jpg" width="900" />
+  <img src="https://github.com/vanshbadjate07/vanshbadjate07/blob/main/Banner.jpg" width="900" />
 </p>
 
 <p align="center">
